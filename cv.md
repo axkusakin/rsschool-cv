@@ -49,3 +49,9 @@ Year              | University                                           | Locat
 ------------------|------------------------------------------------------|-----------------------
 2021 – Present    | Applied Genomics Laboratory, SCAMT, ITMO University  | St. Petersburg, Russia
 2019 – 2020       | Radiation Biology Dep., Chelyabinsk State University | Chelyabinsk, Russia
+
+### Languages
+
+* Russian *(Native)*
+* English *(B2)*
+* Japanese *(JLPT N3 – Intermediate)*
