@@ -29,8 +29,9 @@ I am 23 years old biologist. Since 2021, I am trying my first attempts at bioinf
 
 #### Code Example
 ```
-# Codewars taks: Multiples of 3 or 5
-def multiples_counter(number):
+# Codewars taks: "Multiples of 3 or 5"
+
+def multiples_summ(number):
     summ = 0
     if number < 0:
         return 0
