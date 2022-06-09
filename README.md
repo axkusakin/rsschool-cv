@@ -1,1 +1,1 @@
-https://axkusakin.github.io/rsschool-cv/
+https://axkusakin.github.io/rsschool-cv/cv
