@@ -1,0 +1,51 @@
+.container {
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+.header-content {
+    padding: 10px;
+    display: flex;
+    font-size: 15px;
+    line-height: 1.5;
+}    
+
+.photo {
+    width: 30%;
+}
+
+.rounded {
+    border-radius: 50%;
+}
+
+.name {
+    padding-left: 10px;
+    width: 30%;
+}
+
+.contacts {
+    padding-top: 25px;
+    padding-left: 30px;
+    width: 30%;
+}
+
+.container-2 {
+    max-width: 840px;
+    padding-left: 15%;
+    width: 40%;
+}
+
+.skills {
+    display: flex;
+    font-size: 16px;
+}
+
+.hard-skills {
+    padding-left: 10px;
+    width: 50%;
+}
+
+.soft-skills {
+    padding-left: 40px;
+    width: 50%;
+}
